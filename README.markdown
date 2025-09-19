@@ -1,6 +1,9 @@
 MacroEditor
 ============
 
+> [!IMPORTANT]  
+> This repo is no longer maintained, for a Neovim alternative, please see https://github.com/tuurep/registereditor.
+
 Vim Macros are awesome. But it's hard to get it right on the first try.
 MacroEditor is a simple vim plugin that allow you to edit your macros
 in a split window. And save it back easily when you are done.
